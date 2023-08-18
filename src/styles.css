@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+img {
+  width : 90vw;
+  height : 80vh;
+  object-fit: cover;
+}
